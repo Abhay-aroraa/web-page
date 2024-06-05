@@ -1,0 +1,98 @@
+.purple{
+    color: #ff8a00;
+}
+.abhay{
+    color: #ff8a00;
+font-size: 1.25rem;
+}
+h1{
+    color: white;
+    margin-top: 350px;
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 3px 0 400px 0;
+}
+ img{
+    height: 100%;
+    width: 100%;
+}
+h2{
+    text-align: center;
+    position:relative;
+    top: -458px;
+    color: white;
+}
+.firstsection{
+    display: flex;
+    font-size: 20px;
+    color: white;
+    text-indent: 15px;
+    position: relative;
+    top: -415px;
+    column-gap: 32px;
+}
+.rightsection{
+    margin-left: 30px;
+}
+.ms-auto{
+    font-size: 14px;
+} 
+
+
+ul{
+    text-decoration: none;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    margin-right: 216px;
+    margin-top: 102px;
+    top: -275px;
+    
+}
+ul a{
+    text-decoration: none;
+    color: white;
+    margin-left: -400px;
+    font-size: 1.25rem;
+    
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+.both{
+display:flex;
+position: relative;
+top: -408px;
+justify-content: space-around;
+
+}
+.both.left{
+    height: 20px;
+    width: 100px;
+}
+.right{
+
+}
+.blue{
+    margin-left: 77px;
+}
+ul a :hover{
+    color: #ff8a00;
+    
+}
+body{
+    background-image: url("banner-01.jpg");
+    background-size:cover;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.rajat{
+    background-color:#ff8a00;
+}
